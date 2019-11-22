@@ -1,7 +1,3 @@
-# Jetbrains IntelliJ Idea
-.idea
-*.iml
-
 # Linux
 # backup files
 *~
@@ -20,10 +16,8 @@ Thumbs.db
 .git/
 
 # Java
-*.class
 
 # packages 
-*.jar
 *.war
 *.ear
 
